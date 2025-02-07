@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarshitBavaliya
-- 👀 I’m interested in Java, Spring, Spring Boot, PHP, Codeigniter, Laravel.
+- 👀 I’m interested in NodeJs, ExpressJS, ReactJS, PHP, Codeigniter, Laravel.
 - 📫 How to reach me harshitbavaliya062@gmail.com
 
 <!---
